@@ -1,4 +1,4 @@
-# APM-Demo5
+# This is from the NgRx demo of Deborah Kurata and Duncan Hunter
 
 Demo of container/presentational pattern and OnPush change detection strategy.
 
